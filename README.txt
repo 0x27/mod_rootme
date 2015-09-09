@@ -3,7 +3,7 @@
 
            mod_rootme: making Apache almost as insecure as IIS 5
 
-    What's new in v0.3
+    What's new in v0.4 ;)
     ------------------
 
         * Patched for apache 2.2, started working on 2.2/2.4/modernizing. - see https://www.reddit.com/r/netsec/comments/3k3wvo/the_beauty_of_oldschool_backdoors/cuvgi8f
